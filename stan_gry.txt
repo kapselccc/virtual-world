@@ -1,0 +1,68 @@
+52
+Lis 13 5 3 False 0 52
+Czlowiek 15 4 4 False 0 52 False 0 0
+Cyber-owca 5 18 11 False 0 52
+Cyber-owca 3 9 11 False 0 52
+Zolw 8 12 2 False 0 52
+Guarana 19 17 0 True 2
+Mlecz 16 14 0 True 4
+Trawa 16 10 0 False 0
+Wilcze Jagody 19 1 99 True 4
+Wilcze Jagody 17 13 99 False 0
+Mlecz 14 14 0 False 0
+Mlecz 14 0 0 True 3
+Mlecz 13 0 0 False 0
+Mlecz 14 1 0 False 0
+Mlecz 16 13 0 True 3
+Wilcze Jagody 18 1 99 False 0
+Mlecz 14 15 0 False 0
+Mlecz 13 1 0 False 0
+Mlecz 15 1 0 True 4
+Mlecz 16 12 0 False 0
+Mlecz 15 0 0 False 0
+Mlecz 14 16 0 False 0
+Mlecz 13 14 0 True 3
+Wilcze Jagody 19 0 99 True 4
+Mlecz 15 13 0 False 0
+Mlecz 15 2 0 False 0
+Guarana 19 18 0 False 0
+Mlecz 12 1 0 True 3
+Mlecz 14 12 0 True 2
+Mlecz 14 17 0 False 0
+Mlecz 15 14 0 False 0
+Mlecz 13 13 0 True 1
+Mlecz 17 12 0 False 0
+Mlecz 15 17 0 True 1
+Mlecz 13 15 0 True 2
+Mlecz 15 12 0 False 0
+Mlecz 12 14 0 False 0
+Mlecz 15 3 0 True 4
+Mlecz 16 15 0 True 3
+Mlecz 13 2 0 True 1
+Mlecz 14 3 0 False 0
+Mlecz 15 15 0 False 0
+Guarana 19 16 0 True 3
+Mlecz 16 1 0 False 0
+Mlecz 12 0 0 True 4
+Mlecz 14 2 0 True 1
+Mlecz 14 11 0 True 3
+Mlecz 14 13 0 False 0
+Mlecz 13 16 0 True 3
+Mlecz 15 18 0 False 0
+Mlecz 12 15 0 False 0
+Mlecz 12 13 0 True 3
+Wilcze Jagody 19 3 99 False 0
+Guarana 19 19 0 False 0
+Mlecz 17 14 0 True 1
+Mlecz 16 11 0 False 0
+Mlecz 16 16 0 True 2
+Mlecz 16 17 0 True 1
+Mlecz 11 0 0 True 1
+Mlecz 13 17 0 True 1
+Guarana 18 17 0 True 2
+Mlecz 13 12 0 True 4
+Guarana 19 15 0 True 3
+Mlecz 12 12 0 True 3
+Wilcze Jagody 19 2 99 True 4
+Wilcze Jagody 18 0 99 True 4
+Mlecz 16 3 0 True 4
