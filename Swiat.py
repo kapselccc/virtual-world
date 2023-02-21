@@ -1,8 +1,12 @@
-from pygame.font import Font
-from Organizm import Organizm
-from Zwierze import Zwierze
+import sys
+from random import randint
+
+import pygame
+
+import defines
 from Antylopa import Antylopa
 from Barszcz_Sosnowskiego import Barszcz_Sosnowskiego
+from Cyber_owca import Cyber_owca
 from Czlowiek import Czlowiek
 from Guarana import Guarana
 from Lis import Lis
@@ -12,11 +16,6 @@ from Trawa import Trawa
 from Wilcze_Jagody import Wilcze_Jagody
 from Wilk import Wilk
 from Zolw import Zolw
-from Cyber_owca import Cyber_owca
-import pygame
-import defines
-import sys
-from random import randint
 
 
 class Swiat:
