@@ -9,6 +9,7 @@ python main.py
 ```
 | ⚠️ **Warning!** pygame library is required to start the game | 
 |---|
+
 To install pygame type command below in the terminal
 ```sh
 pip install pygame
